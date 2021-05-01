@@ -1,0 +1,6 @@
+label {
+    display: block;
+}
+.form-group {
+    border-bottom: 1px dashed #999;
+}

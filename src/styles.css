@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+.table-changes .card-header{
+    color: #333 !important;
+}
+
+.sidebar li.active > a {
+    background-color: #563d7c !important;
+    /* box-shadow: 0 4px 20px 0px rgba(0, 0, 0, 0.14), 0 7px 10px -5px rgba(244, 67, 54, 0.4); */
+} 
+.card-title {
+    font-weight: 600 !important;
+}
+.table-changes table thead tr th {
+    text-align: center;
+}

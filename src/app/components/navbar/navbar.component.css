@@ -1,0 +1,10 @@
+.navbar {
+    background: #563d7c !important;
+    color: #ffffff;
+}
+.dropdown-menu {
+min-width: 15rem;
+}
+.dp-user p span {
+    font-size: 14px;
+}

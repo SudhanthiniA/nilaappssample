@@ -1,0 +1,11 @@
+.card-header .card-icon {
+    border-radius: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+.card-header .card-category, .card-header .card-title {
+    text-align: left;
+}
+.dashboard .card-header {
+    color: #333333;
+}
